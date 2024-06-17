@@ -14,9 +14,12 @@
 
 body {
     background-color: #d93f3f;
-    color: #eb2626;
+    color: #F5F5F5;
+    font-size: 1.6rem;
 }
-
+html {
+    font-size:62.5%;
+}
 
 .food-pic {
     width: 200px;
@@ -24,9 +27,9 @@ body {
 
 .title {
     text-align: center;
-    color: #eb2626;
-    border: #eb2626 solid 5px;
+    color: #500a0a;
+    border: #ffb0b0 solid 5px;https://images.heb.com/is/image/HEBGrocery/000539120
     border-radius: 30px;
     font-family: 'Italianno', cursive;
-    font-size: 90px;
+    font-size: 2rem;
 }
